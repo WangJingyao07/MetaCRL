@@ -27,7 +27,7 @@ Meta-learning enables rapid generalization to new tasks by learning knowledge fr
 
 Brief overview of the meta-learning process with MetaCRL:
 
-![alt text](MetaCRL/assets/OVERVIEW.png)
+![OVERVIEW](https://github.com/WangJingyao07/MetaCRL/assets/45681444/dcdfb8bd-13ab-4622-b2c0-9c12d4c14602)
 
 
 ## Platform
